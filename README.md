@@ -1,2 +1,4 @@
 # hello-world
-Just want to know what this github is all about.Hello world is the shit.
+Just want to know what this github is all about.
+My name is Pranav. 
+I want to learn programming
